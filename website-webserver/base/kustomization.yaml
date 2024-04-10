@@ -1,0 +1,4 @@
+resources:
+- nginx-config.yml
+- nginx.yml
+- webserver-ingress.yml

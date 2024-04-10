@@ -1,0 +1,11 @@
+resources:
+- alterai-pl.yml
+- backend.yml
+- ingress.yml
+- make-migrations-job.yml
+- namespace.yml
+- nginx-config.yml
+- nginx.yml
+- postgres-secret.yml
+- postgres.yml
+- webserver-ingress.yml
