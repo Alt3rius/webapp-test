@@ -2,5 +2,4 @@ resources:
 - ../../base
 
 patchesStrategicMerge:
-- backend-replicas.yml
 - frontend-replicas.yml
